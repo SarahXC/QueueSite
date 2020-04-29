@@ -78,7 +78,7 @@ div {
 </script>
 
 <head>
-	<title></title>
+	<title>HELLO</title>
 </head>
 <body>
 	<p class="head">Welcome to the Queue:</p>
